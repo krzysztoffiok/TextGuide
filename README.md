@@ -15,4 +15,4 @@ How to use the code:
 1) Copy this repository
 2) Run the example simply by typing: python3 run.py
 3) The Python3 packages that you might need to install before using Text Guide are: feather, dask and dask[dataframe]
-4) If you wish to use Text Guide for your own data, you need to edit the ./configs/your_config_file.py . You'll also need to provide a python dictionary with keys being tokens deemed as important and values being feature importances. If you want to play, you can write the dictionary withouth training any specific models, just use your own intelligence to define important tokens are corresponding importances.
+4) If you wish to use Text Guide for your own data, you need to edit the ./configs/your_config_file.py . You'll also need to provide a python dictionary with keys being tokens deemed as important and values being feature importances. If you want to play, you can write the dictionary withouth training any specific models, just use your own intelligence to define important tokens and corresponding importances.
