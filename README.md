@@ -9,7 +9,7 @@ This code was published to accompany the <a href=https://arxiv.org/pdf/2104.0722
 Text Guide allows for high quality and computationally nonexpensive text truncation. It selects the important parts of the original text instances based on feature importance obtained from a machine learning classifier (for example gradient boosting) trained earlier on features from a simple model based on counting occurrences of tokens, for example a bag of words model.
 
 Feel free to use the code in your works. If you do, the only thing we kindly ask in return is to cite our research: </br>
-Fiok, K., Karwowski, W., Gutierrez, E., Davahli, M. R., Wilamowski, M., Ahram, T., ... & Zurada, J. (2021). Text Guide: Improving the quality of long text classification by a text selection method based on feature importance. arXiv preprint arXiv:2104.07225.
+Fiok, K., Karwowski, W., Gutierrez, E., Davahli, M. R., Wilamowski, M., Ahram, T., ... & Zurada, J. (2021). Text Guide: Improving the quality of long text classification by a text selection method based on feature importance. IEEE Access.
 
 How to use the code:
 1) Copy this repository
