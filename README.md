@@ -11,7 +11,7 @@ Text Guide allows for high quality and computationally nonexpensive text truncat
 Feel free to use the code in your works. If you do, the only thing we kindly ask in return is to cite our research: </br>
 Fiok, K., Karwowski, W., Gutierrez, E., Davahli, M. R., Wilamowski, M., Ahram, T., ... & Zurada, J. (2021). Text Guide: Improving the quality of long text classification by a text selection method based on feature importance. IEEE Access.
 
-Additional experiments regarding performance of Text Guide and its parameters were carried out in:
+Additional experiments regarding performance of Text Guide and its parameters were carried out in: </br>
 Fiok, K., Karwowski, W., Gutierrez, E., Davahli, M. R., Wilamowski, M., & Ahram, T. (2021). Revisiting text guide, a truncation method for long text classification. Applied Sciences, 11(18), 8554.
 
 How to use the code:
